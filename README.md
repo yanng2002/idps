@@ -99,19 +99,7 @@ idps/
 └── scaler_yoli.pkl ← optionnel
 
 
----
-
-## 🎯 Prochaine action immédiate
-
-**Sur GitLab, fais dans l'ordre :**
-
-1. **Upload** `feature_utils.py` (bouton `+` → Upload file)
-2. **Upload** `pfsense_control_api.py`
-3. **Upload** `requirements.txt`
-4. **Upload** `rsyslog.conf` → dans `configs/`
-5. **Upload** `30-pfsense.conf` → dans `configs/`
-6. **Edit** `README.md` → colle le contenu ci-dessus
-7. **Upload** les 2 `.pkl` → dans `models/`
+ → dans `models/`
 
 **Envoie-moi une capture du dépôt GitLab après**, et on vérifiera que tout est là. 💪
 
